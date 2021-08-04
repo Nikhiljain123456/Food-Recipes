@@ -11,7 +11,7 @@ const Header = props => {
         <input
           type="text"
           class="form-control"
-          placeholder="Search Your Recipe..."
+          placeholder="Search Your Recipe...."
           value={search}
           onChange={onInputChange}
         />
